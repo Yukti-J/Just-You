@@ -1,0 +1,48 @@
+body{
+    background-image: url(Background.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    justify-content: center;
+    text-align: center;
+}
+.asking{
+    height: 300px;
+    width: auto;
+    margin-top: 80px;
+}
+.que{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 35px;
+    font-weight: 600;
+    color: rgb(126, 22, 39);
+    margin-top: 0px;
+}
+.btn{
+    height: auto;
+    width: auto;
+    padding: 8px 15px;
+    font-size: 20px;
+    margin: 0 15px;
+    background-color: rgb(243, 154, 188);
+    border: 0;
+    border-radius: 10px;
+    color: rgb(126, 22, 39);
+    font-weight: 700;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.btn:hover{
+    cursor: pointer;
+    background-color: rgb(126, 22, 39);
+    color: rgb(238, 218, 226);
+}
+.gun{
+    height: 350px;
+    width: auto;
+    margin-top: 80px;
+    margin-bottom: 20px;
+}
+.message{
+    height: 450px;
+    margin-top: 80px;
+    margin-bottom: 20px;
+}
